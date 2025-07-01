@@ -1,7 +1,7 @@
 {
   "name": "node-blue-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "Api minima a partir de um boilerplate",
   "main": "index.js",
   "scripts": {
     "dist": "tsup src",
@@ -9,8 +9,8 @@
     "start:watch": "tsx watch --env-file=.env  src/server.ts",
     "start:dist": "npm run dist && node dist/src/index.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["node", "fatify", "typescript"],
+  "author": "Gustavo Souza",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.11.30",
