@@ -7,5 +7,3 @@
 - [Fastify](https://fastify.dev/docs/latest/)
 - [Dotenv](https://www.npmjs.com/package/dotenv)
 - [Http Status Code](https://www.npmjs.com/package/http-status-codes)
-
-##
