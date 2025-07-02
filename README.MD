@@ -7,5 +7,4 @@
 - [Fastify](https://fastify.dev/docs/latest/)
 - [Dotenv](https://www.npmjs.com/package/dotenv)
 - [Http Status Code](https://www.npmjs.com/package/http-status-codes)
-
-##
+- [Fastify Cors](https://www.npmjs.com/package/@fastify/cors/v/8.0.0)
